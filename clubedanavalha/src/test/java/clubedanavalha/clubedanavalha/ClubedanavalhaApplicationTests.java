@@ -1,0 +1,13 @@
+package clubedanavalha.clubedanavalha;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ClubedanavalhaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
